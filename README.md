@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there! I'm Alex 👋
+
+### About Me
+
+- 🛰 The focus of my research is software development for CubeSats.
+- 🎓 I am currently a Master's student studying Electrical/Computer Engineering 
+at the University of Hawai`i at Mānoa.  
+
 
 <!--
 **montoyaoa/montoyaoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
