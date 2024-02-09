@@ -15,11 +15,12 @@ software I develop.\
 #### Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus)&nbsp;
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)&nbsp;
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU-Bash&logoColor=white)&nbsp;
 
 #### Embedded Systems
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white)&nbsp;
 ![Teensy](https://img.shields.io/badge/PJRC%20Teensy-002157?style=flat)&nbsp;
-![ESP32](https://img.shields.io/badge/ESP32-E7352C.svg?style=flat&logo=Espressif&logoColor=white)&nbsp;
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=Espressif&logoColor=white)&nbsp;
 ![Adafruit](https://img.shields.io/badge/Adafruit-000000?style=flat&logo=Adafruit&logoColor=white)&nbsp;
 ![Sparkfun](https://img.shields.io/badge/SparkFun-E53525?style=flat&logo=SparkFun&logoColor=white)&nbsp;
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat&logo=PlatformIO&logoColor=white)&nbsp;
@@ -28,7 +29,7 @@ software I develop.\
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white)&nbsp;
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=flat&logo=GitHub-Actions&logoColor=white)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GitHub-Actions&logoColor=white)&nbsp;
 
 #### Documentation
 ![Doxygen](https://img.shields.io/badge/Doxygen-2C4AA8?style=flat&logo=Doxygen&logoColor=white)&nbsp;
