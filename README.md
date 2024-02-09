@@ -2,9 +2,13 @@
 
 ### About Me
 
-🛰 The focus of my research is software development for CubeSats.\
 🎓 I am currently a Master's student studying Electrical/Computer Engineering 
-at the University of Hawai`i at Mānoa.  
+at the University of Hawai`i at Mānoa.\
+🛰 I am a research assistant with the Hawai`i Space Flight Laboratory (HSFL).\
+The focus of my research is software development for CubeSats.\
+📚 I am obsessed with writing high-quality documentation and tutorials for the 
+software I develop.\
+
 
 
 <!--
