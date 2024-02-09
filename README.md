@@ -10,9 +10,10 @@ developing software for CubeSats.\
 software I develop.\
 💻 My future career interest is in Embedded Systems software development.
 
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)\
-![C](https://img.shields.io/badge/C-A8B9CC.svg?\
-style=for-the-badge&logo=C&logoColor=black)\
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
+
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
+
 ![Arduino](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 
 
