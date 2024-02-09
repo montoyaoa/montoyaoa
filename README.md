@@ -3,12 +3,17 @@
 ### About Me
 
 🎓 I am currently a Master's student studying Electrical/Computer Engineering 
-at the University of Hawai`i at Mānoa.\
-🛰 I am a research assistant with the Hawai`i Space Flight Laboratory (HSFL).\
-The focus of my research is software development for CubeSats.\
+at the University of Hawai\`i at Mānoa.\
+🛰 I am a research assistant with the Hawai\`i Space Flight Laboratory (HSFL),
+developing software for CubeSats.\
 📚 I am obsessed with writing high-quality documentation and tutorials for the 
 software I develop.\
+💻 My future career interest is in Embedded Systems software development.
 
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)\
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&
+logoColor=black)\
+![Arduino](https://img.shields.io/badge/Arduino-00878F.svg?style=for-the-badge&logo=Arduino&logoColor=white)\
 
 
 <!--
