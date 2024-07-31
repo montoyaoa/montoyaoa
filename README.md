@@ -2,13 +2,13 @@
 
 ### About Me
 
-🎓 I am currently a Master's student studying Electrical/Computer Engineering 
+🎓 I have completed a Master's and Bachelor's degree in Electrical/Computer Engineering 
 at the University of Hawai\`i at Mānoa.\
-🛰 I am a research assistant with the Hawai\`i Space Flight Laboratory (HSFL),
+🛰 I was a research assistant with the Hawai\`i Space Flight Laboratory (HSFL),
 developing software for CubeSats.\
 📚 I am obsessed with writing high-quality documentation and tutorials for the 
 software I develop.\
-💻 My future career interest is in Embedded Systems software development.
+💻 My future career interest is in Embedded Systems software development, CI/CD, and Hardware Engineering.
 
 ***
 
